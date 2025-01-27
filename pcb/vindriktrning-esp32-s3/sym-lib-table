@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "a_esp32")(type "KiCad")(uri "${KIPRJMOD}/../libraries/esp32.kicad_sym")(options "")(descr ""))
+  (lib (name "a_button")(type "KiCad")(uri "${KIPRJMOD}/../libraries/button.kicad_sym")(options "")(descr ""))
+  (lib (name "a_connectors")(type "KiCad")(uri "${KIPRJMOD}/../libraries/connectors.kicad_sym")(options "")(descr ""))
+  (lib (name "a_led")(type "KiCad")(uri "${KIPRJMOD}/../libraries/led.kicad_sym")(options "")(descr ""))
+  (lib (name "a_power")(type "KiCad")(uri "${KIPRJMOD}/../libraries/power.kicad_sym")(options "")(descr ""))
+  (lib (name "a_SCD30")(type "KiCad")(uri "${KIPRJMOD}/../libraries/SCD30.kicad_sym")(options "")(descr ""))
+  (lib (name "a_sensor")(type "KiCad")(uri "${KIPRJMOD}/../libraries/sensor.kicad_sym")(options "")(descr ""))
+)
