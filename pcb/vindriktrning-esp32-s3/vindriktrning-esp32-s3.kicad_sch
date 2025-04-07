@@ -5128,6 +5128,16 @@
 	)
 	(wire
 		(pts
+			(xy 317.5 177.8) (xy 317.5 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f357d09-b81c-405c-9b92-5bb59ca07ada")
+	)
+	(wire
+		(pts
 			(xy 332.74 44.45) (xy 331.47 44.45)
 		)
 		(stroke
@@ -5168,6 +5178,16 @@
 	)
 	(wire
 		(pts
+			(xy 242.57 251.46) (xy 245.11 251.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13d42bc5-a0bd-45d6-a9e5-eb1ff511f8a4")
+	)
+	(wire
+		(pts
 			(xy 27.94 34.29) (xy 27.94 35.56)
 		)
 		(stroke
@@ -5175,6 +5195,16 @@
 			(type default)
 		)
 		(uuid "1617e9e1-935f-4fa3-95b5-56c09f1b10d2")
+	)
+	(wire
+		(pts
+			(xy 242.57 245.11) (xy 245.11 245.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1aa239e9-5e0e-42f7-a762-189d1c66aac7")
 	)
 	(wire
 		(pts
@@ -5195,6 +5225,16 @@
 			(type default)
 		)
 		(uuid "1dd31232-1f03-453a-9242-a0668a9948ea")
+	)
+	(wire
+		(pts
+			(xy 274.32 238.76) (xy 278.13 238.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "205e5e2f-a8fc-44d3-bef7-8de07f0ab580")
 	)
 	(wire
 		(pts
@@ -5485,6 +5525,16 @@
 			(type default)
 		)
 		(uuid "41056c01-87e3-4a76-bed3-6ade3f7d0de9")
+	)
+	(wire
+		(pts
+			(xy 309.88 170.18) (xy 314.96 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "423d41f9-3c0d-4f01-bca0-2eaaaa0a9e15")
 	)
 	(wire
 		(pts
@@ -5788,6 +5838,16 @@
 	)
 	(wire
 		(pts
+			(xy 242.57 238.76) (xy 245.11 238.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f9950ac-6c75-4047-871b-b230e49cc701")
+	)
+	(wire
+		(pts
 			(xy 39.37 73.66) (xy 48.26 73.66)
 		)
 		(stroke
@@ -6085,6 +6145,16 @@
 			(type default)
 		)
 		(uuid "7ba5762f-cccc-4f2e-926c-7a7e3014c1fa")
+	)
+	(wire
+		(pts
+			(xy 274.32 232.41) (xy 278.13 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7bff79d5-0216-4d8e-a0f6-34bcff06e367")
 	)
 	(wire
 		(pts
@@ -6568,6 +6638,16 @@
 	)
 	(wire
 		(pts
+			(xy 242.57 257.81) (xy 245.11 257.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1739b30-e628-4446-8056-2ec3a5c26a8b")
+	)
+	(wire
+		(pts
 			(xy 106.68 259.08) (xy 100.33 259.08)
 		)
 		(stroke
@@ -6725,6 +6805,16 @@
 			(type default)
 		)
 		(uuid "c61745d6-ddcf-4068-9483-4c89bb7d57a0")
+	)
+	(wire
+		(pts
+			(xy 242.57 232.41) (xy 245.11 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c92093fb-ebc3-45ec-86c5-f1bf6327eb4c")
 	)
 	(wire
 		(pts
@@ -6978,6 +7068,16 @@
 	)
 	(wire
 		(pts
+			(xy 309.88 163.83) (xy 314.96 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e36fddff-0897-4ef0-b82d-2f10dfdd34de")
+	)
+	(wire
+		(pts
 			(xy 189.23 115.57) (xy 196.85 115.57)
 		)
 		(stroke
@@ -7105,6 +7205,16 @@
 			(type default)
 		)
 		(uuid "eec5321c-67c5-4a0b-bc12-11d81a1c7814")
+	)
+	(wire
+		(pts
+			(xy 308.61 177.8) (xy 317.5 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef551667-e360-4bff-8cbc-e611ffb96e58")
 	)
 	(wire
 		(pts
@@ -7430,6 +7540,28 @@
 			)
 		)
 	)
+	(global_label "TXD0"
+		(shape input)
+		(at 314.96 163.83 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "230277a2-1e56-4956-a403-ee3756cfb6db")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 322.6018 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SDA"
 		(shape input)
 		(at 213.36 200.66 180)
@@ -7738,6 +7870,28 @@
 			)
 		)
 	)
+	(global_label "IO6"
+		(shape input)
+		(at 245.11 257.81 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "58daf6eb-1fb5-4f05-85a3-9a04ce9ad3c1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 251.24 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "CC1"
 		(shape input)
 		(at 63.5 33.02 180)
@@ -7826,6 +7980,28 @@
 			)
 		)
 	)
+	(global_label "RXD0"
+		(shape input)
+		(at 314.96 170.18 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "73c8f62c-64d1-4547-b19e-9b579cb8cf75")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 322.9042 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "D-"
 		(shape input)
 		(at 88.9 35.56 0)
@@ -7861,6 +8037,28 @@
 		(uuid "7d97869c-5c4c-4301-9cff-341de5557327")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 249.9095 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "IO2"
+		(shape input)
+		(at 245.11 232.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7ee3c622-6638-4d89-84fe-bc9f749f95af")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 251.24 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7927,6 +8125,28 @@
 		(uuid "8afed3be-e443-4351-9a9d-b52d774a4a22")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 250.2118 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "IO1"
+		(shape input)
+		(at 245.11 251.46 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8ed3913d-9b61-4b0d-a6b5-8b93b6f8a3d7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 251.24 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8024,6 +8244,28 @@
 			)
 		)
 	)
+	(global_label "IO3"
+		(shape input)
+		(at 245.11 238.76 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "99ef8bbb-59d2-4d22-8b99-f2c77f394906")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 251.24 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "LED_DATA"
 		(shape input)
 		(at 214.63 162.56 180)
@@ -8046,9 +8288,9 @@
 			)
 		)
 	)
-	(global_label "IO20"
+	(global_label "IO6"
 		(shape input)
-		(at 213.36 203.2 180)
+		(at 213.36 175.26 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8058,7 +8300,7 @@
 		)
 		(uuid "c243d6cd-9c3a-4c5a-b3d6-f5214be66dcc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 206.0205 203.2 0)
+			(at 207.23 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8092,7 +8334,7 @@
 	)
 	(global_label "FAN"
 		(shape input)
-		(at 213.36 175.26 180)
+		(at 213.36 203.2 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8102,7 +8344,7 @@
 		)
 		(uuid "c5b2e487-49be-44b4-a554-cb7b99f03976")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 206.8671 175.26 0)
+			(at 206.8671 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8134,6 +8376,28 @@
 			)
 		)
 	)
+	(global_label "IO7"
+		(shape input)
+		(at 278.13 232.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c9c51bcd-27a5-43d3-a87b-00e6fbd11c41")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 284.26 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "P2.5_RX"
 		(shape input)
 		(at 166.37 256.54 180)
@@ -8152,6 +8416,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "IO0"
+		(shape input)
+		(at 245.11 245.11 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cee07c2d-c0e2-4c7e-b446-461e47028f94")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 251.24 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -8334,6 +8620,28 @@
 	)
 	(global_label "IO8"
 		(shape input)
+		(at 278.13 238.76 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e87203f7-6fff-4a57-8d83-ccc63673229e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 284.26 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "IO8"
+		(shape input)
 		(at 213.36 193.04 180)
 		(fields_autoplaced yes)
 		(effects
@@ -8409,6 +8717,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25803"
+			(at 223.52 87.6299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e0abc592-c80f-475f-93ad-086ea3171cbf")
 		)
@@ -8419,6 +8736,71 @@
 			(project "vindriktrning-esp32-s3"
 				(path "/59df11d9-6025-424f-8986-35358438e3d8"
 					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 237.49 257.81 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "02349c7a-fd67-4513-a210-086a609dcd50")
+		(property "Reference" "J9"
+			(at 238.125 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 238.125 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 237.49 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 237.49 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 237.49 257.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cee554bf-d181-44e1-8700-c89f2be5850b")
+		)
+		(instances
+			(project "vindriktrning-esp32-s3"
+				(path "/59df11d9-6025-424f-8986-35358438e3d8"
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -8545,6 +8927,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25803"
+			(at 58.42 74.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d6936cec-855c-4af4-80de-1dc7c0f03c67")
 		)
@@ -8627,6 +9018,71 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 303.53 177.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "10b7a03d-78d9-402d-b59e-1fc53a03a421")
+		(property "Reference" "J4"
+			(at 304.165 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 304.165 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 303.53 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 303.53 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 303.53 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fb5505f4-f13f-425b-b3e0-51fa917a2938")
+		)
+		(instances
+			(project "vindriktrning-esp32-s3"
+				(path "/59df11d9-6025-424f-8986-35358438e3d8"
+					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 38.1 41.91 0)
 		(unit 1)
@@ -8687,6 +9143,71 @@
 			(project "vindriktrning-esp32-s3"
 				(path "/59df11d9-6025-424f-8986-35358438e3d8"
 					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 237.49 232.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "15069d9b-abd7-4d64-b2a1-abc8464aa8a8")
+		(property "Reference" "J5"
+			(at 238.125 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 238.125 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 237.49 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 237.49 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 237.49 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d6805f11-7668-4993-a428-30e5c8da48e0")
+		)
+		(instances
+			(project "vindriktrning-esp32-s3"
+				(path "/59df11d9-6025-424f-8986-35358438e3d8"
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -8806,6 +9327,15 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 281.94 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25804"
+			(at 284.48 31.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9210,6 +9740,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25803"
+			(at 27.94 252.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a2622d1c-cde4-48ff-8f47-52c7c32d6d26")
 		)
@@ -9353,6 +9892,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C7450621"
+			(at 76.2 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "B9"
 			(uuid "9f366d9a-8494-43b6-aa9b-3e3fe1f14aba")
 		)
@@ -9468,6 +10016,15 @@
 		)
 		(property "LCSC Part" "C145997"
 			(at 179.07 274.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C145997"
+			(at 179.07 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9689,6 +10246,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C23186"
+			(at 40.64 36.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1636517b-ca80-4a17-a495-50e41a835eb9")
 		)
@@ -9759,6 +10325,15 @@
 		)
 		(property "LCSC Part" "C5349954"
 			(at 320.04 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5349954"
+			(at 320.04 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10170,6 +10745,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1710"
+			(at 114.3 74.9362 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9a2cd3f8-22f5-4935-a2da-3c40f244098f")
 		)
@@ -10242,6 +10826,15 @@
 		)
 		(property "LCSC Part" "C335982"
 			(at 39.37 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C335982"
+			(at 43.18 77.7239 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10463,6 +11056,71 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 269.24 232.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5d44bf45-65b5-4f8f-bd97-66c9caa27451")
+		(property "Reference" "J10"
+			(at 269.875 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 269.875 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 269.24 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 269.24 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 269.24 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0fd79e34-30a4-4bc3-8028-e4673a17e448")
+		)
+		(instances
+			(project "vindriktrning-esp32-s3"
+				(path "/59df11d9-6025-424f-8986-35358438e3d8"
+					(reference "J10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 351.79 54.61 0)
 		(unit 1)
@@ -10582,6 +11240,15 @@
 		)
 		(property "LCSC Part" "C151516"
 			(at 114.3 274.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C151516"
+			(at 114.3 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10805,6 +11472,15 @@
 		)
 		(property "LCSC Part" "C393945"
 			(at 58.42 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C393945"
+			(at 64.77 242.5699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11095,6 +11771,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C347475"
+			(at 45.72 257.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c0e810ad-d6cf-4b51-9a22-01b704cff7ef")
 		)
@@ -11108,6 +11793,71 @@
 			(project ""
 				(path "/59df11d9-6025-424f-8986-35358438e3d8"
 					(reference "Q1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 237.49 245.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "739d61ec-75af-4e5a-b4f7-0bdf51a6d51a")
+		(property "Reference" "J7"
+			(at 238.125 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 238.125 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 237.49 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 237.49 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 237.49 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "67f18fe2-d5d3-4bdf-b4bb-37a3907fbc35")
+		)
+		(instances
+			(project "vindriktrning-esp32-s3"
+				(path "/59df11d9-6025-424f-8986-35358438e3d8"
+					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -11233,6 +11983,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25804"
+			(at 139.7 248.9199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "87eeb056-8ee9-42b3-b5ac-cf21ae31c95e")
 		)
@@ -11243,6 +12002,71 @@
 			(project "vindriktrning-esp32-s3"
 				(path "/59df11d9-6025-424f-8986-35358438e3d8"
 					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 237.49 238.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7d2b3b8b-b051-4a5f-b5eb-d3be186f3b7b")
+		(property "Reference" "J6"
+			(at 238.125 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 238.125 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 237.49 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 237.49 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 237.49 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1593c8ac-f0bd-4e0b-a6cb-ed9c28a8a506")
+		)
+		(instances
+			(project "vindriktrning-esp32-s3"
+				(path "/59df11d9-6025-424f-8986-35358438e3d8"
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -11375,6 +12199,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C917121"
+			(at 29.21 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5e7e9459-de12-4acf-b9ce-ffd41d443dd2")
 		)
@@ -11438,6 +12271,15 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 128.27 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25804"
+			(at 130.81 265.4299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11590,6 +12432,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C720477"
+			(at 190.5 104.1399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "abfae96c-a605-4e4a-a742-9529ec723495")
 		)
@@ -11669,6 +12520,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C720477"
+			(at 222.25 102.8699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "566b9080-8085-48ed-93c2-9f8d807fc787")
 		)
@@ -11739,6 +12599,15 @@
 		)
 		(property "LCSC Part" "C5736265"
 			(at 228.6 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5736265"
+			(at 228.6 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11976,6 +12845,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5349954"
+			(at 341.63 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "edda7b22-502b-455e-8260-9b7b70f25493")
 		)
@@ -12195,6 +13073,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 317.5 180.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "933e257e-0708-423d-a7c9-7dd7b2e8309f")
+		(property "Reference" "#PWR010"
+			(at 317.5 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 317.5 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 317.5 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 317.5 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 317.5 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2e3dfc1d-9046-4111-a420-10c4d54a9ffe")
+		)
+		(instances
+			(project "vindriktrning-esp32-s3"
+				(path "/59df11d9-6025-424f-8986-35358438e3d8"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 302.26 33.02 0)
 		(unit 1)
@@ -12242,6 +13186,15 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 302.26 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C21190"
+			(at 304.8 31.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12310,6 +13263,15 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 259.08 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C23186"
+			(at 259.08 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12459,6 +13421,71 @@
 			(project "vindriktrning-esp32-s3"
 				(path "/59df11d9-6025-424f-8986-35358438e3d8"
 					(reference "#PWR020")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 269.24 238.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9e0c9559-cdce-472f-a33e-4098d47261f5")
+		(property "Reference" "J11"
+			(at 269.875 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 269.875 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 269.24 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 269.24 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 269.24 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a8dd4758-9666-40a9-8ec9-82f57b364f7e")
+		)
+		(instances
+			(project "vindriktrning-esp32-s3"
+				(path "/59df11d9-6025-424f-8986-35358438e3d8"
+					(reference "J11")
 					(unit 1)
 				)
 			)
@@ -12656,6 +13683,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5349954"
+			(at 363.22 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d2696169-b7ae-46ee-8230-442c13028384")
 		)
@@ -12732,6 +13768,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C28323"
+			(at 204.47 100.3362 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3f52aafb-57c4-4c6c-8294-8cf16293863c")
 		)
@@ -12742,6 +13787,71 @@
 			(project "vindriktrning-esp32-s3"
 				(path "/59df11d9-6025-424f-8986-35358438e3d8"
 					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 304.8 170.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a746227e-c426-442a-a2e7-e310b916c780")
+		(property "Reference" "J3"
+			(at 305.435 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 305.435 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 304.8 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 304.8 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 304.8 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1f3e71a5-9f23-4477-b49b-33597b21275c")
+		)
+		(instances
+			(project "vindriktrning-esp32-s3"
+				(path "/59df11d9-6025-424f-8986-35358438e3d8"
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -12795,6 +13905,15 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 31.75 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25803"
+			(at 34.29 265.4299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12929,6 +14048,15 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 259.08 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C23186"
+			(at 259.08 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13152,6 +14280,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2891705"
+			(at 43.18 242.5699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1f32b02a-e901-42db-804f-7cc7e6618c9f")
 		)
@@ -13224,6 +14361,15 @@
 		)
 		(property "LCSC Part" "C250858"
 			(at 25.4 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C250858"
+			(at 29.21 194.3099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13377,6 +14523,71 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x01_Pin")
+		(at 237.49 251.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c424fbf7-8b21-4be4-b6b2-bd34d301d414")
+		(property "Reference" "J8"
+			(at 238.125 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x01_Pin"
+			(at 238.125 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+			(at 237.49 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 237.49 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 237.49 251.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7c122cde-0f44-409f-910b-55ec87e547e6")
+		)
+		(instances
+			(project "vindriktrning-esp32-s3"
+				(path "/59df11d9-6025-424f-8986-35358438e3d8"
+					(reference "J8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:RT9080-33GJ5")
 		(at 77.47 76.2 0)
 		(unit 1)
@@ -13431,6 +14642,15 @@
 		)
 		(property "LCSC Part" "C841192"
 			(at 77.47 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C841192"
+			(at 77.47 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13517,6 +14737,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C23186"
+			(at 30.48 36.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0002fdd8-033a-413c-a2b5-3d02b4181c65")
 		)
@@ -13580,6 +14809,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 99.06 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C15850"
+			(at 101.6 74.9362 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13723,6 +14961,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25804"
+			(at 30.48 181.6099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9d057520-8dc3-4f1f-b52a-bafc6d334a58")
 		)
@@ -13786,6 +15033,15 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 102.87 266.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25804"
+			(at 105.41 265.4299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13870,6 +15126,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5349954"
+			(at 384.81 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "508452cc-aa1b-4162-97ea-701bd7e3fc9b")
 		)
@@ -13939,6 +15204,15 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 189.23 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C23186"
+			(at 191.77 88.8999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14089,6 +15363,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5224263"
+			(at 295.275 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3e93b099-ee98-458f-8317-77b8ae292403")
 		)
@@ -14221,6 +15504,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 48.26 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C15850"
+			(at 50.8 85.0962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14489,6 +15781,15 @@
 		)
 		(property "Description" "Resistor, small US symbol"
 			(at 92.71 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25804"
+			(at 95.25 247.6499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
